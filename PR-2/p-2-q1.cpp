@@ -1,5 +1,3 @@
-//  WAP to pass function as an argument to a function.
-
 #include<iostream>
 using namespace std;
 

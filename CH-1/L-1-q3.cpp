@@ -1,7 +1,3 @@
-// -- WAP to find all leap years from 2020 to 3030 and store them into an array.--
-
-
-
 #include<iostream>
 using namespace std;
 

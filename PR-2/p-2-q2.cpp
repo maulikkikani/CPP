@@ -13,7 +13,7 @@ int swap(int a[10], int b[10], int n,int i)
 
 int main()
 {
-	int n;
+	int n,i;
 	
 	cout << "Enter The Size Of n :";
 	cin  >> n;
@@ -35,7 +35,7 @@ int main()
 		cin  >> b[i];
 	}
 	
-	swap(a,b,n);
+	swap(a,b,n,i);
 	
 	cout << endl << "--: Display Swap :--" << endl << endl;
 	for(i=0; i<n; i++)
