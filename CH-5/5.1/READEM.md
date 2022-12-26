@@ -30,6 +30,6 @@ Program :-
 
 # Output :-
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-4/4.4/photo/4.4.1.png" hight="200px" alt="image to loded">
+<img width="503" alt="5 1" src="https://user-images.githubusercontent.com/114164076/209565682-9f2a16e8-e158-4711-8999-eb6a7357f21e.png">
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-4/4.4/photo/4.4.2.png" hight="200px" alt="image to loded">
+<img width="569" alt="5 2" src="https://user-images.githubusercontent.com/114164076/209565690-79633541-165d-4b91-ab03-5656548c4adc.png">
