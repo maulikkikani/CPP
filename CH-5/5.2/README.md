@@ -25,6 +25,6 @@ Program :-
 
 # Output :-
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-5/5.1/photo/5.1.png" hight="200px" alt="image to loded">
+<img src="https://user-images.githubusercontent.com/114164076/209943444-7444b2f6-c7dc-4bab-91da-da2da0cded64.png" hight="200px" alt="image to loded">
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-5/5.1/photo/5.2.png" hight="200px" alt="image to loded">
+<img src="https://user-images.githubusercontent.com/114164076/209943447-db5dc7f1-1978-4eef-9623-07b685283048.png" hight="200px" alt="image to loded">
