@@ -28,8 +28,9 @@ Program :-
 
 ><u>***c6-l1-q2***</u>
 
+
 # Output :-
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-5/5.1/photo/5.1.png" hight="200px" alt="image to loded">
+<img src="https://user-images.githubusercontent.com/114164076/210254996-c9c94630-e221-4ea8-a2c5-01ae7b14e831.png" hight="200px" alt="image to loded">
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-5/5.1/photo/5.2.png" hight="200px" alt="image to loded">
+<img src="https://user-images.githubusercontent.com/114164076/210255007-647bd315-eafe-48d6-82f2-050ea5830c1a.png" hight="200px" alt="image to loded">
