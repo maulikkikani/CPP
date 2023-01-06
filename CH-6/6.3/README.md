@@ -27,4 +27,4 @@ Program :-
 
 # Output :-
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-5/5.1/photo/5.1.png" hight="200px" alt="image to loded">
+<img src="https://github.com/maulikkikani/CPP/blob/master/CH-6/6.3/photo/6.3.png" hight="200px" alt="image to loded">
