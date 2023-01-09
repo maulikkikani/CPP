@@ -21,4 +21,4 @@ Program :-
 
 # Output :-
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/CH-5/5.1/photo/5.1.png" hight="200px" alt="image to loded">
+<img src="https://user-images.githubusercontent.com/114164076/211320540-23badb67-c8a3-4df9-af01-a7784f5ba521.png"" hight="200px" alt="image to loded">
