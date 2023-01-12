@@ -12,7 +12,7 @@ program :-
 
 # output :-
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/PR-7/photo/p7.1.png" hight="200px" alt="image to loded">
+<img src="https://user-images.githubusercontent.com/114164076/211988183-dfaad270-cfa7-43d9-9f1e-c6b98c2d9993.png" hight="200px" alt="image to loded">
 
 ><u>Aim-2</u> :-
 >===========
@@ -26,4 +26,4 @@ program :-
 
 # output :-
 
-<img src="https://github.com/maulikkikani/CPP/blob/master/PR-7/photo/p7.2.png" hight="200px" alt="image to loded">
+<img src="https://user-images.githubusercontent.com/114164076/211988381-9ddb96e5-e9cf-4988-b399-3021901833b1.png" hight="200px" alt="image to loded">
